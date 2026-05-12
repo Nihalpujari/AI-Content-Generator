@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 AI Content Generator
 
 > A multimodal AI-powered content generation platform built with LangGraph, Streamlit, and multi-agent architecture.
@@ -355,3 +356,6 @@ All outputs must align in tone, style, and message:
 ---
 
 *Built as part of the Collaborative Industry Project — Masters Programme*
+=======
+# AI-Content-Generator
+>>>>>>> 87a23bdbd4c6e0ca62ce6a141b378d405ea69c7f
