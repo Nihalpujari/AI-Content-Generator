@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🤖 AI Content Generator
 
 > A multimodal AI-powered content generation platform built with LangGraph, Streamlit, and multi-agent architecture.
